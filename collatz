@@ -1,0 +1,14 @@
+# Maria O Sullivan, 2018-02-10
+# The Collatz Conjecture Program
+
+n = 17
+
+while n > 1:
+    if n % 2 == 0:
+        print (n)
+        n = int(n/2)
+    elif n % 2 == 1:
+        print (n)
+        n = int(n*3+1)
+print (n)
+print ("Done")
