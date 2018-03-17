@@ -1,7 +1,10 @@
 # Maria O Sullivan
-n = int(input("enter the number:"))
+def factorial(n):
     result = 1
-    for i in range(n,0,-1):
-         result = result*i
+    for i in range(1,n +1):
+        result*=i
+    return result
 
-print("factorial of",n, "is", result)
+print(factorial(5))
+print(factorial(7))
+print(factorial(10))
