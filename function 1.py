@@ -1,3 +1,4 @@
+# Maria O Sullivan
 n = int(input("enter the number:"))
     result = 1
     for i in range(n,0,-1):
