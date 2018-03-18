@@ -1,4 +1,4 @@
-# Maria O Sullivan
+# Maria O Sullivan 15-03-2018
 # using function to find a factorial
 def factorial(n):
     result = 1
