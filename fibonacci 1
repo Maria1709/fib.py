@@ -1,6 +1,6 @@
 # Maria Sullivan
 # A program that displays Fibonacci numbers.
-
+# n +2 - fiboannic 
 def fib(n):
   """This function returns the nth Fibonacci number."""
   i = 0
