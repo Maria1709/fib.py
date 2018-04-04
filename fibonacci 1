@@ -1,6 +1,6 @@
 # Maria Sullivan
 # A program that displays Fibonacci numbers.
-# n +2 - fiboannic 
+# n is the sum of the first and last letter in my fisrst name m +a = maria = 13+1=14
 def fib(n):
   """This function returns the nth Fibonacci number."""
   i = 0
