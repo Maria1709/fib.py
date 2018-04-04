@@ -1,6 +1,6 @@
 # Maria Sullivan
 # A program that displays Fibonacci numbers using people's names.
-
+# n is the sum of the first and last letter of my surname as numbers
 def fib(n):
   """This function returns the nth Fibonacci number."""
   i = 0
