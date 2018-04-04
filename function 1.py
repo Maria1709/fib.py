@@ -5,7 +5,7 @@ def factorial(n):
     for i in range(1,n +1):
         result*=i
     return result
-
+#print the factorial 5,7 and 10 of n
 print(factorial(5))
 print(factorial(7))
 print(factorial(10))
